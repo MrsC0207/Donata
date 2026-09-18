@@ -1,11 +1,21 @@
-DONATA HARDISON PROTOTYPE
+READY FOR GITHUB PAGES
 
-Upload index.html, styles.css and the assets folder to the root of the GitHub repository.
+Upload ALL of these items to the repository root:
+- index.html
+- styles.css
+- assets/ (including all six JPG files)
 
-IMPORTANT:
-Add Donata's actual portrait to:
-assets/donata.jpg
+Expected structure:
+index.html
+styles.css
+assets/
+  hero.jpg
+  buy.jpg
+  sell.jpg
+  area.jpg
+  meet-donata.jpg
+  donata.jpg
 
-The page will still render without it, but shows a labeled placeholder.
+This prototype is self-contained for its layout and imagery. Google Fonts are an optional enhancement; browser fallbacks are included.
 
-This prototype deliberately uses a navy / ivory / champagne / muted coastal-teal palette and an editorial luxury-real-estate layout rather than the LWN Social visual language.
+NOTE: The Donata portrait imagery in this prototype is cropped from the previously approved visual mockup, so it should be treated as prototype artwork. Replace it with Donata's final approved photography before launch.
