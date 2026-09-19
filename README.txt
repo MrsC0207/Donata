@@ -1,1 +1,1 @@
-Upload index.html, styles.css and the complete assets folder to the repository root. Replace existing versions.
+V4 prototype. Donata's portrait is local. Property/lifestyle images are remote prototype references and must be replaced with owned/licensed photography before public launch.
