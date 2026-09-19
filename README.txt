@@ -1,1 +1,2 @@
-V4 prototype. Donata's portrait is local. Property/lifestyle images are remote prototype references and must be replaced with owned/licensed photography before public launch.
+OPERATION NO CRAYONS V5
+Self-contained build. No remote images, no mockup crops. Upload index.html, styles.css and assets/donata.jpg together. The three non-Donata image panels are deliberate CSS placeholders until final licensed photography is selected.
