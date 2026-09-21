@@ -1,2 +1,4 @@
-OPERATION NO CRAYONS V5
-Self-contained build. No remote images, no mockup crops. Upload index.html, styles.css and assets/donata.jpg together. The three non-Donata image panels are deliberate CSS placeholders until final licensed photography is selected.
+DONATA HARDISON — SHOWCASE HOMEPAGE
+Upload index.html, styles.css and the assets folder to the root of the GitHub Pages repository.
+
+Prototype note: the lifestyle/property photography is provisional concept imagery and should be replaced with Donata-owned/licensed final photography before public commercial launch. Donata's supplied portrait is local in assets/donata.jpg.
